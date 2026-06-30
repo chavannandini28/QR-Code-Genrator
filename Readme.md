@@ -456,9 +456,9 @@ Ctrl + C
 
 # 👨‍💻 Author
 
-**Bhushan Ahire**
+**Nandini Chavan**
 
-GitHub: https://github.com/Bhush8766
+GitHub: https://github.com/chavannandini28
 
 LinkedIn: https://www.linkedin.com/in/nandini-chavan-b4788727b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
